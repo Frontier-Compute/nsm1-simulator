@@ -357,7 +357,7 @@ function StepCard({ step, index, isActive, isCurrent, isComplete, leafHash, fiel
             onMouseEnter={e => { e.target.style.background = step.color + "44"; }}
             onMouseLeave={e => { e.target.style.background = step.color + "22"; }}
           >
-            Compute Leaf Hash →
+            Compute Leaf Hash
           </button>
         </>
       )}
