@@ -1,5 +1,7 @@
 # zap1-simulator
 
+[![ci](https://github.com/Frontier-Compute/zap1-simulator/actions/workflows/ci.yml/badge.svg)](https://github.com/Frontier-Compute/zap1-simulator/actions/workflows/ci.yml)
+
 Interactive ZAP1 lifecycle event simulator.
 
 ## What it does
